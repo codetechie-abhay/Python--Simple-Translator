@@ -9,9 +9,12 @@ A low dependency and really simple to start project template for Python Projects
 ## Install it from PyPI
 
 ```bash
-- [pip install googletrans==3.1.0a0]
-- [pip install tk]
+- pip install googletrans==3.1.0a0
+- pip install tk
 ```
+
+[❤️ Sponser this project](https://github.com/codetechie-abhay)
+[❤️ Codetechie-abhay](https://github.com/codetechie-abhay)
 
 ## Usage
 
