@@ -1,7 +1,7 @@
 
 # Python Project (Translator)
 
-A low dependency and really simple to start project template for Python Projects.
+This translator use Googletrans-Googletrans is a free and unlimited python library that implemented Google Translate API
 
 
 # project_description
