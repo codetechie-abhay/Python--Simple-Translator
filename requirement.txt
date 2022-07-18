@@ -1,0 +1,8 @@
+#Googletrans is a free and unlimited python library that implemented Google Translate API
+pip install googletrans==3.1.0a0
+
+#for linux users - "sudo apt-get install python3-tk"
+
+#Tkinter is a standard library in Python which is used for GUI application. Tkinter has various controls which are used to build a GUI-based application.
+pip install tk
+pip install tk-tools
