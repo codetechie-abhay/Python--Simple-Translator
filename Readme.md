@@ -9,7 +9,8 @@ A low dependency and really simple to start project template for Python Projects
 ## Install it from PyPI
 
 ```bash
-pip install googletrans==3.1.0a0
+- [pip install googletrans==3.1.0a0]
+- [pip install tk]
 ```
 
 ## Usage
