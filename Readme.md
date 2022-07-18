@@ -4,9 +4,7 @@
 A low dependency and really simple to start project template for Python Projects.
 
 
-### translator in Python
-
-## project_description
+# project_description
 
 ## Install it from PyPI
 
