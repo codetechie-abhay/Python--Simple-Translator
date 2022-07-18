@@ -4,11 +4,9 @@
 A low dependency and really simple to start project template for Python Projects.
 
 
-# translator in Python
+### translator in Python
 
-[![codetechie-abhay](https://github.com/codetechie-abhay)]
-
-project_description
+## project_description
 
 ## Install it from PyPI
 
